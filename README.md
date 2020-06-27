@@ -1,4 +1,4 @@
-Deconv model and api interface for the "DeConv Cam" view in my GlimpseAI (working name) app here: https://github.com/rashanarshad/react_deconv
+Deconv model and api interface for the "DeConv Cam" view in my Glimpse app here: https://github.com/rashanarshad/react_deconv
 
 special thanks to @jalused and his keras deconvnet implementation here: 
 https://github.com/jalused/Deconvnet-keras
