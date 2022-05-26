@@ -124,7 +124,7 @@ Theano==1.0.4
 tifffile==2020.6.3
 tornado==6.0.4
 traitlets==4.3.3
-ujson==3.0.0
+ujson==5.2.0
 urllib3==1.25.9
 uvicorn==0.11.5
 uvloop==0.14.0
